@@ -45,4 +45,12 @@ Divyansh Vaid
 
 BTech Computer Science and Engineering  
 Lovely Professional University
+## How to Run the Project
+
+1. Install Python.
+2. Install the required libraries:
+   pip install -r requirements.txt
+3. Keep the dataset in the project folder.
+4. Open the Python file in IDLE.
+5. Run the program using F5.
 
