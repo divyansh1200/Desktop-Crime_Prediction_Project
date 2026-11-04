@@ -38,7 +38,7 @@ Dataset: Violent Crime and Property Crime by County (1975–Present).
 - R-squared Score
 
 ## Project Status
-Currently under development.
+Currently under development. 
 
 ## Author
 Divyansh Vaid
