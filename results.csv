@@ -1,0 +1,7 @@
+Model,MAE,MSE,RMSE,R2
+Multiple Linear Regression,57.2784,5647.6765,75.151,0.9354
+Polynomial Regression (deg 2),62.7291,6462.6222,80.3904,0.926
+Decision Tree,53.422,5786.4966,76.069,0.9338
+Random Forest,57.9241,6277.7227,79.2321,0.9282
+SVR (RBF kernel),78.2354,10694.4755,103.4141,0.8776
+Baseline (previous-year rate),45.7909,4490.5376,67.0115,0.9486
